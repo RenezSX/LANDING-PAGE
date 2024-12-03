@@ -9,6 +9,7 @@
 body {
     background-color: rgb(88, 112, 219);
     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
     max-width: 1200px;
     padding: 15px;
 }
@@ -27,4 +28,47 @@ header {
 #title {
     flex-direction: column;
     line-height: 25px;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+h1 {
+    font-weight: 450;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 45px;
+    font-weight: 500;
+}
+
+span {
+    color: rgb(226, 226, 92);
+}
+
+p {
+    line-height: 20px;
+    max-width:500px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    margin-top: 30px;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: rgb(226, 226, 92);
+    transition: 0.3s all;
 }
