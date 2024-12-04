@@ -4,7 +4,7 @@ Este é um projeto de landing page para uma empresa fictícia chamada Pet Compan
 # Descrição
 A landing page é composta por:
 <li> Um cabeçalho com links de navegação.</li>
-</li>Um formulário de cadastro para clientes interessados.</li>
+<li>Um formulário de cadastro para clientes interessados.</li>
 <li> Uma imagem ilustrativa de um cachorro fofo.</li>
 <li>Um design moderno com cores vibrantes e tipografia elegante.
 Funcionalidades</li>
