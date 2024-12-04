@@ -23,7 +23,9 @@ Clone este repositório:
 ```bash
 git clone https://github.com/RenezSX/pet-company-landing-page.git
 ```
-Abra o arquivo index.html no navegador.
+
+# Demonstração da Página
+![Preview da Página de Login](/assets/gif-demonstração.gif)
 
 # Estrutura do Projeto ⚙️
 ```bash
@@ -31,6 +33,7 @@ Abra o arquivo index.html no navegador.
 ├── style.css     # Estilos da página
 └── assets/       # Imagens e outros arquivos de mídia
 ```
+
 
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
