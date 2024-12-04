@@ -25,7 +25,7 @@ git clone https://github.com/RenezSX/pet-company-landing-page.git
 ```
 
 # Demonstração da Página
-![Preview da Página de Login](/assets/gif-demonstração.gif)
+![Preview da Página de Login](./assets/LANDING-PAGE.png)
 
 # Estrutura do Projeto ⚙️
 ```bash
